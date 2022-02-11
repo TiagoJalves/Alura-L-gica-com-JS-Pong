@@ -1,0 +1,9 @@
+Referencias do JS no J5 
+
+Localizar o código da tecla:
+
+https://keycode.info/
+
+Demais sintaxe
+
+https://p5js.org/reference/
